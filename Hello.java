@@ -4,7 +4,7 @@ public class Hello{
 
 for(int i=1;i<=10;i++){
 
-System.out.println("Welcome to DevOps Workshop  Manas Akbar... " +i); 
+System.out.println("Welcome to DevOps Workshop  Manas Akbar  BUILD TEST DEPLOY... " +i); 
 
 
 }
